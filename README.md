@@ -26,6 +26,7 @@ A React UI library for personal practice, use with caution in projects
 - **Accessibility**: Follow WAI-ARIA standards
 
 ### 3. Directory Structure
+```
 
 ├── assets/ # Static resources
 ├── components/ # Base components
@@ -37,6 +38,7 @@ A React UI library for personal practice, use with caution in projects
 ├── utils/ # Utility functions
 ├── theme/ # Theme configuration
 └── index.ts # Entry file
+```
 
 ### 4. Development Standards
 - Use PascalCase for component naming

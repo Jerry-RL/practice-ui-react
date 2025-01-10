@@ -26,7 +26,7 @@
 - **可访问性**: 遵循 WAI-ARIA 标准
 
 ### 3. 目录结构
-
+```
 ├── assets/ # 静态资源
 ├── components/ # 基础组件
 │ ├── Button/ # 按钮组件
@@ -37,7 +37,7 @@
 ├── utils/ # 工具函数
 ├── theme/ # 主题配置
 └── index.ts # 入口文件
-
+```
 ### 4. 开发规范
 - 使用 PascalCase 命名组件
 - 使用 TypeScript 定义组件 props
